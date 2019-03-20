@@ -1,9 +1,10 @@
 public class Hello {
 	public static void main(String[] args) {
-		System.out.println("ÄãºÃ£¡ÕÔÙ»Ù»£¡");
+		System.out.println("ä½ å¥½ï¼èµµå€©å€©ï¼");
 		for (; ; )
 		{
-			System.out.println("ÎÒ°®ÄãÕÔÙ»Ù»£¡");
+			System.out.println("æˆ‘çˆ±ä½ èµµå€©å€©ï¼");
+			System.out.print("ä½ å¥½ï¼");
 		}
 	}
 }
